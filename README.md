@@ -20,7 +20,7 @@ Perguntas:
 2) Quais continentes possuem a maior disparidade salarial?
 3) Quais são os fatores determinantes para se obter independencia financeira antes dos 30 anos? 
 
-Dataset: 
+Dataset: https://www.openintro.org/data/index.php?data=reddit_finance
 _________________________________________________________________________________
 Possível Tema(3): Violência Policial Americana
 
@@ -30,4 +30,4 @@ Perguntas:
 2) Dos homens que perderam suas vidas, quantos fugiram e estavam armadas?
 3) Existe alguma relação entre a instabilidade emocional das vítimas e o nível de ameaça que elas apresentavam?
 
-Dataset: 
+Dataset: https://www.openintro.org/data/index.php?data=fatal_police_shootings
